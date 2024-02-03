@@ -93,9 +93,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
+Your Name - [@bgod39]([https://twitter.com/your_twitter](https://twitter.com/bgod39))
 
-Project Link: [https://github.com/yourgithubusername/solana-token-smart-contract](https://github.com/yourgithubusername/solana-token-smart-contract)
+Project Link: [https://github.com/Adarsh9315/smart-contract](https://github.com/Adarsh9315/smart-contract)
 
 ---
 
